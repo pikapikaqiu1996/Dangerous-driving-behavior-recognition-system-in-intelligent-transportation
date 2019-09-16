@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/light">
+        <file>light/dengpao.png</file>
+        <file>light/dengpao2.jpg</file>
+        <file>light/far.png</file>
+        <file>light/far2.jpg</file>
+        <file>light/frost.png</file>
+        <file>light/frost2.jpg</file>
+        <file>light/near.png</file>
+        <file>light/near2.jpg</file>
+        <file>light/timg.png</file>
+        <file>light/timg2.jpg</file>
+        <file>light/you.png</file>
+        <file>light/you2.jpg</file>
+        <file>light/zuo.png</file>
+        <file>light/zuo2.jpg</file>
+    </qresource>
+    <qresource prefix="/warning">
+        <file>warning/door.png</file>
+        <file>warning/door2.jpg</file>
+        <file>warning/houbeixiang.png</file>
+        <file>warning/houbeixiang2.jpg</file>
+        <file>warning/belt.png</file>
+        <file>warning/belt2.jpg</file>
+        <file>warning/tired.png</file>
+        <file>warning/tired2.jpg</file>
+        <file>warning/smoke.png</file>
+        <file>warning/smoke2.jpg</file>
+        <file>warning/Temp.png</file>
+        <file>warning/Temp2.jpg</file>
+        <file>warning/Fuel.png</file>
+        <file>warning/Fuel2.jpg</file>
+    </qresource>
+</RCC>
